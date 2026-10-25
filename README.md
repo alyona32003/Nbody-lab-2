@@ -1,3 +1,4 @@
+<img width="480" height="480" alt="Одно устойчивое" src="https://github.com/user-attachments/assets/304bb9af-c76a-4cbe-afaa-83bfafa07cfd" />
 # Гравитационная задача N тел: формирование структур
 
 Моделирование эволюции распределения в задаче N-тел с использованием алгоритма пространственного разбиения Барнса-Хата.
@@ -8,8 +9,9 @@
 
 ## Визуализация
 
-![Сферическое распределение](images/gif1.gif)
-![Фрагментация на несколько структур](images/gif2.gif)
+<img width="480" height="480" alt="Одно устойчивое" src="https://github.com/user-attachments/assets/afb1a1f2-9895-422c-bb9e-5804b23cab37" />
+
+<img width="480" height="480" alt="Несколько слабоустойчивых структур" src="https://github.com/user-attachments/assets/08b5833a-d2d8-4d83-b7fb-953e276a812a" />
 
 
 
