@@ -7,7 +7,7 @@
 
 ---
 
-## Визуализация
+## Визуализация (ожидайте, если не появилась gif)
 
 <img width="480" height="480" alt="Одно устойчивое" src="https://github.com/user-attachments/assets/46fe6afe-a8cd-466e-8cfb-42b655e248b9" />
 
