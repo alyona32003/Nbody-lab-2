@@ -9,9 +9,11 @@
 
 ## Визуализация
 
-<img width="480" height="480" alt="Одно устойчивое" src="https://github.com/user-attachments/assets/afb1a1f2-9895-422c-bb9e-5804b23cab37" />
+<img width="480" height="480" alt="Одно устойчивое" src="https://github.com/user-attachments/assets/46fe6afe-a8cd-466e-8cfb-42b655e248b9" />
 
-<img width="480" height="480" alt="Несколько слабоустойчивых структур" src="https://github.com/user-attachments/assets/08b5833a-d2d8-4d83-b7fb-953e276a812a" />
+<img width="480" height="480" alt="Несколько слабоустойчивых структур" src="https://github.com/user-attachments/assets/08aa4676-abf3-4766-873c-ce2582628ad2" />
+
+
 
 
 
