@@ -36,7 +36,7 @@ $$
 \frac{d\mathbf{r}_i}{dt} = \mathbf{v}_i, \quad m_i \frac{d\mathbf{v}_i}{dt} = \mathbf{F}_i
 $$
 
-Сила гравитационного притяжения с введением параметра смягчения (softening) \(\varepsilon\) для подавления сингулярностей при близких сближениях:
+Сила гравитационного притяжения с введением параметра смягчения (softening)  для подавления сингулярностей при близких сближениях:
 
 $$
 \mathbf{F}_i = G \sum_{j \neq i} \frac{m_i m_j (\mathbf{r}_j - \mathbf{r}_i)}{(|\mathbf{r}_j - \mathbf{r}_i|^2 + \varepsilon^2)^{3/2}}
